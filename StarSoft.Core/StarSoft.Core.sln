@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarSoft.Core", "StarSoft.Core.csproj", "{1503AB4F-A19B-4421-9BB9-D12E4AF0F43B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarSoft.Core.Data", "..\StarSoft.Core.Data\StarSoft.Core.Data.csproj", "{427C8A50-635F-47B3-996E-320F7E74378F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1503AB4F-A19B-4421-9BB9-D12E4AF0F43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1503AB4F-A19B-4421-9BB9-D12E4AF0F43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1503AB4F-A19B-4421-9BB9-D12E4AF0F43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427C8A50-635F-47B3-996E-320F7E74378F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427C8A50-635F-47B3-996E-320F7E74378F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427C8A50-635F-47B3-996E-320F7E74378F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427C8A50-635F-47B3-996E-320F7E74378F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
